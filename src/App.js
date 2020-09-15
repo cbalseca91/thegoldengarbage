@@ -119,7 +119,7 @@ const App = () => {
     }
 
     //Si llegó hasta acá quiere decir que pasó todas las pruebas el patrón
-    setRespuesta2(<p>La respuesta es: TRUE</p>)
+    setRespuesta2(<p>La respuesta es: VERDADERO</p>)
 
   }
 
