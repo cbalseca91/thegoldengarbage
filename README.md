@@ -5,7 +5,10 @@ Christian Ricardo Balseca Núñez.
 
 ## Descripción
 
-Se ha creado un proyecto en base a las especificaciones solicitadas mediante correo, esperando que cumpla con sus expectativas
+Se ha creado un proyecto en base a las especificaciones solicitadas mediante correo, esperando que cumpla con sus expectativas.
+
+## Lenguaje Utilizado
+Se hizo uso de Javascript, con el framework ReactJS, toda la funcionalidad está en el archivo App.js .
 
 ## Comandos Básicos
 
