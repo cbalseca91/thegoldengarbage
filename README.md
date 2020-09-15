@@ -11,7 +11,7 @@ Se ha creado un proyecto en base a las especificaciones solicitadas mediante cor
 
 Para clonar el proyecto, desde GIT usar el comando:
 
-### `git clone https://github.com/cbalseca91/kata-pociones.git`
+### `git clone https://github.com/cbalseca91/thegoldengarbage`
 
 Para arrancar el proyecto, ejecutar:
 
